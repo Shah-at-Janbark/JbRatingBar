@@ -1,0 +1,76 @@
+R_DEF: Internal format may change without notice
+local
+anim anim
+anim bounce
+anim rotation
+anim scale_down
+anim scale_up
+anim slide_down
+anim slide_up
+attr? amharic_font_type
+attr? clipShadow
+attr? compatEvelation
+attr? forceClip
+attr? isTranslucent
+attr? rv_alpha
+attr? rv_centered
+attr? rv_color
+attr? rv_framerate
+attr? rv_rippleDuration
+attr? rv_ripplePadding
+attr? rv_type
+attr? rv_zoom
+attr? rv_zoomDuration
+attr? rv_zoomScale
+attr? srb_clearRatingEnabled
+attr? srb_clickable
+attr? srb_drawableEmpty
+attr? srb_drawableFilled
+attr? srb_isIndicator
+attr? srb_minimumStars
+attr? srb_numStars
+attr? srb_rating
+attr? srb_scrollable
+attr? srb_starHeight
+attr? srb_starPadding
+attr? srb_starWidth
+attr? srb_stepSize
+color black
+color ic_launcher_background
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_star_filled
+drawable ic_star_unfilled
+id AMHARIC_FONT_FANTUWUA
+id AMHARIC_FONT_GOFFER
+id AMHARIC_FONT_HIWUA
+id AMHARIC_FONT_JIRET
+id AMHARIC_FONT_NYALA
+id AMHARIC_FONT_SABAEAN
+id AMHARIC_FONT_TINT
+id AMHARIC_FONT_WASHRAB
+id AMHARIC_FONT_WASHRASB
+id AMHARIC_FONT_WOOKIANOS
+id AMHARIC_FONT_YEBSE
+id AMHARIC_FONT_YIGEZUBISRAT
+id AMHARIC_FONT_ZELAN
+id doubleRipple
+id rectangle
+id simpleRipple
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.JbRatingBar
+styleable AmharicButtonView amharic_font_type
+styleable BaseRatingBar srb_numStars srb_minimumStars srb_rating srb_starPadding srb_drawableEmpty srb_drawableFilled srb_isIndicator srb_scrollable srb_clickable srb_clearRatingEnabled srb_starWidth srb_starHeight srb_stepSize
+styleable ElevationImageView compatEvelation clipShadow isTranslucent forceClip
+styleable RippleView rv_alpha rv_framerate rv_rippleDuration rv_zoomDuration rv_color rv_centered rv_type rv_ripplePadding rv_zoom rv_zoomScale
+xml backup_rules
+xml data_extraction_rules

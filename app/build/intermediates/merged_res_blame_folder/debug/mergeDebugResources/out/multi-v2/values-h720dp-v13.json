@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jb.ratingbar.app-mergeDebugResources-2:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shah Saud\\.gradle\\caches\\8.9\\transforms\\755067bd66372fe1561e844b53fd9b5e\\transformed\\appcompat-1.7.1\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

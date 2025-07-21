@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.jb.ratingbar.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/anim_slide_down.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/anim_rotation.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/anim/rotation.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/anim_scale_up.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/anim/scale_up.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/anim_anim.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/anim/anim.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/anim_bounce.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/anim/bounce.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/drawable_ic_star_unfilled.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/drawable/ic_star_unfilled.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/anim_slide_up.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/anim_scale_down.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/anim/scale_down.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/drawable_ic_star_filled.xml.flat",
+        "source": "com.jb.ratingbar.app-main-6:/drawable/ic_star_filled.xml"
+    },
+    {
+        "merged": "com.jb.ratingbar.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.jb.ratingbar.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
