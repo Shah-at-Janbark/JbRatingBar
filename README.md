@@ -31,7 +31,7 @@ dependencyResolutionManagement {
 
 ### 2️⃣ Step 2: Add the library dependency in your app-level `build.gradle`:
 ```kotlin
-implementation("com.github.YOUR_GITHUB_USERNAME:JbRatingBar:1.0.0")
+implementation("com.github.Shah-at-Janbark:JbRatingBar:1.0.0")
 ```
 
 ---
