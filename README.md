@@ -44,6 +44,8 @@ implementation("com.github.Shah-at-Janbark:JbRatingBar:1.0.0")
     android:id="@+id/customRatingBar"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
+app:srb_drawableEmpty="@drawable/ic_star_unfilled"
+app:srb_drawableFilled="@drawable/ic_star_filled"
     app:numStars="5"
     app:rating="4"
     app:stepSize="0.5"
